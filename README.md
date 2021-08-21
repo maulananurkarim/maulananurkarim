@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning Flutter Framework
 - 💞️ I’m looking to collaborate on Mobile Development
-- 📫 How to reach me maulananurkarim.official@gmail.com
+- 📫 How to reach me maulananurkarim.com
 
 <!---
 maulananurkarim/maulananurkarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
